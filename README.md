@@ -12,7 +12,7 @@ This project contains two MATLAB functions that work together to read satellite 
 
 First, use the `read_sp3file` function to read the data from the SP3 file:
 
-```matlab
+
 [sat] = read_sp3file('igs20491.sp3');
 
 Then, use the new function to interpolate the positions for a specific satellite and time interval:
