@@ -28,7 +28,7 @@ Applying Earth’s rotation correction: The Earth’s rotation during the signal
 Calculating the difference: The difference between the rotated and original estimated satellite coordinates is calculated and converted to micrometers (diff).
 This code is useful for applications in satellite navigation and positioning, such as GPS. It allows the user to determine the precise location of a satellite at a specific time based on pseudorange measurements and precise satellite ephemeris data.
 
-Please note that this is a high-level explanation. For a detailed understanding, knowledge of satellite navigation principles and MATLAB programming is required.
+
 
 Plotting
 The new function also generates plots of the interpolated coordinates. These plots can be used to visualize the movement of the satellite over time.
